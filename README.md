@@ -19,7 +19,7 @@ It might not work on all types of Challenges.
    - Worry not, the api key on first time provides 18 USD of credits. Which will take long to end. 
    - You can get api key by going [here](https://chat.openai.com/chat)
    - Ask the AI 'how to obtain an open ai key'
-   - It will guide from A to Z.
+   - It will guide you from A to Z.
    - Once key is obtained, go to data>api-secret.txt in this project and paste the open ai key in txt file. Then save it.
 
 # 💻 Usage 💻
