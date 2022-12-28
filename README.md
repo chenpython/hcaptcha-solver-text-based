@@ -2,6 +2,7 @@
 
 A simple yet powerful Python project to solve captcha of type **TEXT-Challenge**. 💪
 Some Proofs are shown in below images:
+-----
 ***With proxies:***
 ![Proxy](https://github.com/kokiez/hcaptcha-solver-text-based/blob/main/1.png)
 ![Proxy](https://github.com/kokiez/hcaptcha-solver-text-based/blob/main/2.png)
