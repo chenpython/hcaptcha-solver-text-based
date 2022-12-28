@@ -11,7 +11,9 @@ Some Proofs are shown in below images:
 
 ## ❗ Important Note 
 This project only supports a sitekey which does provide a ***TEXT-Challenge***.
-It might not work on all types of Challenges.
+It might not work on all types of Challenges. 
+You might be able to notice in the images that a captcha was wrong, it happened because 1 answer was wrong 'is bull made of cells? no'. This happens when answers from txt file are wrong. 
+If you open answers.txt file sometimes you might notice 2 answers combined. This happens occassionally.
 
 # 📥 Installating Requirements
 1. Run the file named **install_requirements.bat**.
