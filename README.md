@@ -1,5 +1,11 @@
 # 🔥 Captcha Solver 🔥
 A simple yet powerful Python project to solve captcha of type **TEXT-Challenge**. 💪
+Some Proofs are shown in below images:
+***With proxies:***
+![Proxy](https://github.com/kokiez/hcaptcha-solver-text-based/blob/main/1.png)
+![Proxy](https://github.com/kokiez/hcaptcha-solver-text-based/blob/main/2.png)
+***Without proxies:***
+![No Proxy](https://github.com/kokiez/hcaptcha-solver-text-based/blob/main/3-withoutproxy.png)
 
 # 📥 Installating Requirements
 Run the file named **install_requirements.bat**.
