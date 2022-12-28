@@ -1,4 +1,5 @@
-# 🔥 Captcha Solver 🔥
+# 🔥 Captcha Solver 🔥 
+
 A simple yet powerful Python project to solve captcha of type **TEXT-Challenge**. 💪
 Some Proofs are shown in below images:
 ***With proxies:***
@@ -7,8 +8,18 @@ Some Proofs are shown in below images:
 ***Without proxies:***
 ![No Proxy](https://github.com/kokiez/hcaptcha-solver-text-based/blob/main/3-withoutproxy.png)
 
+## ❗ Important Note 
+This project only supports a sitekey which does provide a ***TEXT-Challenge***.
+It might not work on all types of Challenges.
+
 # 📥 Installating Requirements
-Run the file named **install_requirements.bat**.
+1. Run the file named **install_requirements.bat**.
+2. You will be required an open ai api key:
+   - Worry not, the api key on first time provides 18 USD of credits. Which will take long to end. 
+   - You can get api key by going [here](https://chat.openai.com/chat)
+   - Ask the AI 'how to obtain an open ai key'
+   - It will guide from A to Z.
+   - Once key is obtained, go to data>api-secret.txt in this project and paste the open ai key in txt file. Then save it.
 
 # 💻 Usage 💻
 Using the CAPTCHA Solver is simple. 
