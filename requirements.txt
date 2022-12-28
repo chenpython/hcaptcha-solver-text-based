@@ -1,0 +1,10 @@
+openai
+brotli
+pysocks
+selenium
+webdriver-manager>=3.7.0
+keyboard
+pystyle
+colorama
+pytweening
+redis
